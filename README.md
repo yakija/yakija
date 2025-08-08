@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yakiza is a platform that uses AI tools to convert text to audio or text to video. 👋
 
 <!--
 **yakija/yakija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
